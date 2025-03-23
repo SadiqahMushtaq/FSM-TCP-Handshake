@@ -1,4 +1,3 @@
-```markdown
 # TCP Three-Way Handshake Simulation using Verilog
 
 ## Project Overview
